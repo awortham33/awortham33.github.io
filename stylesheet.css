@@ -117,6 +117,7 @@ ul.menu{
 }
 @media screen and (max-width: 1050px){
     #video-background{display: none;}
+    .scroll{display:none;}
     .buffer{display:none;}
     .sidebar-menu li{text-align:center;}
     ul.menu{padding-left:0px;}
