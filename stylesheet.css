@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'tiger';
-    src: url('./fonts/tigersharkbold.ttf');
+    src: url('https://raw.githack.com/awortham33/awortham33.github.io/master/fonts/tigersharkbold.ttf');
 }
 
 body{
