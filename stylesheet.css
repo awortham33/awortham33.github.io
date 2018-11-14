@@ -46,6 +46,14 @@ ul.menu{
     height:65px;
 }
 
+.scroll{
+    text-align: center;
+}
+
+.scroll img{
+    height:30px;
+}
+
 
 /* //// POSTS //// */
 
