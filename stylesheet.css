@@ -9,11 +9,17 @@
     src: url('https://raw.githack.com/awortham33/awortham33.github.io/master/fonts/tigersharkbold.ttf');
 }
 
+@font-face {
+    font-family: 'andromeda';
+    src: url('https://raw.githack.com/awortham33/opendepo/master/Andromeda.otf');
+}
+
+
 body{
     background-color:#000;
     color:#fff;
     text-transform:uppercase;
-    font-family: 'tiger', sans-serif;
+    font-family: 'andromeda', sans-serif;
 }
 
 a{
