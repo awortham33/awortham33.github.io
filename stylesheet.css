@@ -202,7 +202,7 @@ ul.menu{
         margin-top: 40px;
         margin-bottom:40px;
     }
-    
+    .credits{font-size:10px;}
 
 }
 @media screen and (max-width: 1050px){
@@ -219,6 +219,7 @@ ul.menu{
     .row{
         width:auto;
     }
+    
 }
 
 
