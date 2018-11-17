@@ -68,6 +68,18 @@ ul.menu{
     height:30px;
 }
 
+.credits{
+    text-align: center;
+    font-size: 12px;
+    padding:0px;
+    margin:0px;
+    margin-top:20px;
+}
+
+.credits p{
+    padding:0px;
+    margin:0px;
+}
 
 /* //// POSTS //// */
 
