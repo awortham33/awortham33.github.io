@@ -81,6 +81,14 @@ ul.menu{
     margin:0px;
 }
 
+#virtual{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 /* //// POSTS //// */
 
 
