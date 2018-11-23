@@ -230,7 +230,7 @@ ul.menu{
     .logo img{
         padding-left:0px;
         padding-top:10px;}
-
+    .title{padding-left:0px;}
     .row{
         width:auto;
     }
