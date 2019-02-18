@@ -24,6 +24,7 @@ body{
     background-attachment: fixed; 
     background-position: center;
     background-size: cover;
+
     color:#9B9B9B;
     text-transform:uppercase;
     font-family: 'orator', sans-serif;
@@ -223,9 +224,7 @@ ul .links{
         padding: 20px 0px 30px 0px;
     }
     
-    .body{
-   background-image: none;
-    }
+
 
 }
 
@@ -246,6 +245,7 @@ ul .links{
     .nav{
         width: 1175px;
     }
+
 
 }
 
