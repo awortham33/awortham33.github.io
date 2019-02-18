@@ -11,6 +11,12 @@
 src: url('https://raw.githack.com/awortham33/opendepo/master/OratorStd.otf');
 }
 
+
+html,body{
+    width: 100%;
+    height: 100%; 
+}
+
 body{
     background-color:#000;
     background-image: url('./assets/sparks.png');
@@ -218,8 +224,7 @@ ul .links{
     }
     
     .body{
-        background-position: right top;
-        
+   
     }
 
 }
