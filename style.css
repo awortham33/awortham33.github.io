@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'orator';
-src: url('./fonts/OratorStd.otf');
+src: url('https://raw.githack.com/awortham33/opendepo/master/OratorStd.otf');
 }
 
 body{
