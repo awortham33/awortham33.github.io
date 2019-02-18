@@ -19,7 +19,7 @@ html,body{
 
 body{
     background-color:#000;
-    background-image: url('./assets/sparks.png');
+    background-image: url('./assets/sparks.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-position: center;
@@ -224,7 +224,7 @@ ul .links{
     }
     
     .body{
-   
+   background-image: none;
     }
 
 }
@@ -237,6 +237,7 @@ ul .links{
         width: 830px;
     }
 
+
 @media screen and (min-width: 1150px){
     .post{
         width:1175px;
@@ -245,5 +246,6 @@ ul .links{
     .nav{
         width: 1175px;
     }
-    
+
 }
+
