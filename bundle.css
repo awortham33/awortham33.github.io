@@ -55,6 +55,10 @@ li{
     transition: all 0.2s ease-in-out;
 }
 
+.footer img{
+    height: 16px;
+}
+
 ul .links{
     text-align: right;
 }
